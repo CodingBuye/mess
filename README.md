@@ -13,4 +13,4 @@ git提交代码五部曲：
 <br/>
 
 ## CSS
-- [css-聚光灯效果](https://github.com/CodingBuye/mess/tree/master/css-聚光灯效果)
+- [CSS-聚光灯效果](https://github.com/CodingBuye/mess/tree/master/css-聚光灯效果)
